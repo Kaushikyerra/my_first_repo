@@ -1,2 +1,4 @@
+node_modules/
+__pycache__/
+target/
 *.log
-node_modules
